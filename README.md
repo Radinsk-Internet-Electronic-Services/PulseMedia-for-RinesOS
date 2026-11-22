@@ -78,7 +78,3 @@ Some formats (mkv, flac, ogg, opus, webm) depend on the codecs installed on your
 ## How it works
 
 `PulseMedia.bat` is a batch launcher with a PowerShell + WPF program embedded in it. The batch part starts PowerShell, which reads the rest of the file and runs it, so the whole player is one file you can open and read.
-
-## License
-
-Add a license here, for example MIT.
